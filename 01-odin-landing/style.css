@@ -21,7 +21,7 @@ body{
 .header-logo {
     color: #F9FAF8 ;
     font-size: 24px;
-    font-weight: bolder;
+    font-weight: 700px;
     margin: 20px 20px 20px;
 }
 .lists {
@@ -50,4 +50,34 @@ li {
 }
 body{
     margin:0;
+}
+
+.container2{
+    background-color: #1F2937;width:100%;
+    font-family: roboto;
+    padding: 15px 15px;
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    color: #F9FAF8;
+    font-size: 48px;
+    font: weight 800px;;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.item {
+    box-sizing: border-box;
+    padding: 50px 50px 50px 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+
+}
+.image{
+    box-sizing: border-box;
+    padding-left: 50px;
+    padding-right: 50px;
 }
