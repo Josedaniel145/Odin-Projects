@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(192, 119, 119);
+    text-align: center;
+}
+
+.list {
+    list-style-position: inside;
+    text-align: center; /* Center the text and bullet points */
+  }
+  
